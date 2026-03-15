@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Next.js
+.next/
+out/
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE files
+# VSCode
+.vscode/
+# JetBrains
+.idea/
